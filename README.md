@@ -1,2 +1,2 @@
 # Antra-SEP-FullStack
-Some Practice and Homework
+Practice and Homework
